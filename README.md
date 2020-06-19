@@ -1,7 +1,7 @@
 # image_colorization
 ## Grayscale image to colorful transformation - the aim is to get plausable colorful images which will "trick" the observer to give the feeling of a real RGB image
 
-A VGG16 based CNN neaural network has been used, the schema is represented bellow:
+A VGG16 based CNN neaural network has been used, the schema is represented bellow:.
 
 ![](model_plot.png)
 
